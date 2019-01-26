@@ -1,0 +1,1 @@
+{"uuid":"06c7379c-ab63-4eeb-ab95-85f67d217a0d","name":"Jenkins.Jenkins","start":1548533687998,"stop":1548533705006,"children":["a4c4d24a-f799-4268-b4fb-35b51aade3b4"],"afters":[{"name":"afterClass","status":"passed","stage":"finished","description":"","start":1548533704991,"stop":1548533704992}]}
