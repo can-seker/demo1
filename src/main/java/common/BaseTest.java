@@ -58,6 +58,7 @@ public class BaseTest extends BaseLibrary {
 
     @BeforeSuite(alwaysRun = true)
     public void driverSetUp() {
+        System.setProperty("webdriver.chrome.driver","C:\\driver\\chromedriver.exe");
         String sysProperties = "";
         sysProperties += "Setup started";
         sysProperties += "\nfile.encoding: " + String.format("file.encoding: %s", System.getProperty("file.encoding"));
