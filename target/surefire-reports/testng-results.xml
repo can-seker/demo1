@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="12512" started-at="2019-01-26T20:31:34Z" finished-at="2019-01-26T20:31:46Z">
+  <suite name="Suite" duration-ms="12067" started-at="2019-01-27T13:43:54Z" finished-at="2019-01-27T13:44:06Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="12512" started-at="2019-01-26T20:31:34Z" finished-at="2019-01-26T20:31:46Z">
+    <test name="Test" duration-ms="12067" started-at="2019-01-27T13:43:54Z" finished-at="2019-01-27T13:44:06Z">
       <class name="Jenkins.Jenkins">
-        <test-method status="PASS" signature="beforeSuite(org.testng.ITestContext)[pri:0, instance:Jenkins.Jenkins@14d3bc22]" name="beforeSuite" is-config="true" duration-ms="28" started-at="2019-01-26T20:31:34Z" finished-at="2019-01-26T20:31:34Z">
+        <test-method status="PASS" signature="beforeSuite(org.testng.ITestContext)[pri:0, instance:Jenkins.Jenkins@14d3bc22]" name="beforeSuite" is-config="true" duration-ms="44" started-at="2019-01-27T13:43:54Z" finished-at="2019-01-27T13:43:54Z">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="driverSetUp()[pri:0, instance:Jenkins.Jenkins@14d3bc22]" name="driverSetUp" is-config="true" duration-ms="28" started-at="2019-01-26T20:31:34Z" finished-at="2019-01-26T20:31:34Z">
+        <test-method status="PASS" signature="driverSetUp()[pri:0, instance:Jenkins.Jenkins@14d3bc22]" name="driverSetUp" is-config="true" duration-ms="76" started-at="2019-01-27T13:43:54Z" finished-at="2019-01-27T13:43:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- driverSetUp -->
-        <test-method status="PASS" signature="beforeMethod(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:Jenkins.Jenkins@14d3bc22]" name="beforeMethod" is-config="true" duration-ms="11" started-at="2019-01-26T20:31:34Z" finished-at="2019-01-26T20:31:34Z">
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:Jenkins.Jenkins@14d3bc22]" name="beforeMethod" is-config="true" duration-ms="27" started-at="2019-01-27T13:43:54Z" finished-at="2019-01-27T13:43:54Z">
           <params>
             <param index="0">
               <value>
@@ -38,11 +38,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TS0002()[pri:0, instance:Jenkins.Jenkins@14d3bc22]" name="TS0002" duration-ms="12359" started-at="2019-01-26T20:31:34Z" description="TS0002 Kullanıcı Oluşturma" finished-at="2019-01-26T20:31:46Z">
+        <test-method status="PASS" signature="TS0002()[pri:0, instance:Jenkins.Jenkins@14d3bc22]" name="TS0002" duration-ms="11855" started-at="2019-01-27T13:43:54Z" description="TS0002 KullanÄ±cÄ± OluÅŸturma" finished-at="2019-01-27T13:44:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TS0002 -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Jenkins.Jenkins@14d3bc22]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-01-26T20:31:46Z" finished-at="2019-01-26T20:31:46Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Jenkins.Jenkins@14d3bc22]" name="afterMethod" is-config="true" duration-ms="2" started-at="2019-01-27T13:44:06Z" finished-at="2019-01-27T13:44:06Z">
           <params>
             <param index="0">
               <value>
@@ -53,7 +53,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:Jenkins.Jenkins@14d3bc22]" name="afterClass" is-config="true" duration-ms="2" started-at="2019-01-26T20:31:46Z" finished-at="2019-01-26T20:31:46Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Jenkins.Jenkins@14d3bc22]" name="afterClass" is-config="true" duration-ms="1" started-at="2019-01-27T13:44:06Z" finished-at="2019-01-27T13:44:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
